@@ -12,21 +12,24 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your computer.
 ### 2. Clone the Repository
 Clone this project to your local machine using git:
 
-Bash
+```Bash
 git clone [https://github.com/YOUR_USERNAME/SpaceEscapeRunner.git](https://github.com/YOUR_USERNAME/SpaceEscapeRunner.git)
 cd SpaceEscapeRunner
+```
 
 3. Install Dependencies
 Install the required node modules and Expo libraries:
 
-Bash
+```Bash
 npm install
+```
 
 4. Start the Development Server
 Launch the Expo CLI engine:
 
-Bash
+```Bash
 npx expo start
+```
 
 5. Test via Expo Go
 Download the Expo Go app on your Android or iOS device.
@@ -40,3 +43,4 @@ Scan the generated terminal QR code using your phone's camera to run the app ins
    git add README.md
    git commit -m "Docs: Update README with clear execution instructions"
    git push origin main
+   ```
